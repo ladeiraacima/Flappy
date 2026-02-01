@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SPT_VARIAVEIS",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SPT_VARIAVEIS",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
