@@ -1,0 +1,18 @@
+
+
+
+----- Flappy Pássaros-----
+	---GDD---
+	
+	
+	
+	MECÂNICAS
+	Espaço pula
+	Pega peixes(coletáveis) para comprar outros pássaros
+	árvores e gaviões  inimigos
+	
+	PÚBLICO ALVO
+	 Jogadores Casuais
+	 
+	
+	
