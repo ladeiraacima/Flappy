@@ -26,6 +26,7 @@
     {"$GMFolder":"","%Name":"Sons","folderPath":"folders/Sons.yy","name":"Sons","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bg","folderPath":"folders/Sprites/Bg.yy","name":"Bg","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Obstáculos","folderPath":"folders/Sprites/Obstáculos.yy","name":"Obstáculos","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Passaros","folderPath":"folders/Sprites/Passaros.yy","name":"Passaros","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "ForcedPrefabProjectReferences":[
@@ -52,6 +53,7 @@
     {"id":{"name":"spr_reflexo2","path":"sprites/spr_reflexo2/spr_reflexo2.yy",},},
     {"id":{"name":"spr_reflexoarvores","path":"sprites/spr_reflexoarvores/spr_reflexoarvores.yy",},},
     {"id":{"name":"spr_reflexolua","path":"sprites/spr_reflexolua/spr_reflexolua.yy",},},
+    {"id":{"name":"Sprite11","path":"sprites/Sprite11/Sprite11.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
