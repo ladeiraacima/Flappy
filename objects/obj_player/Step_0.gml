@@ -3,3 +3,4 @@
 	 image_angle+=15;
 	 hspeed=-4;
 	 }
+if y>=352 or y<=0{morreu();}
