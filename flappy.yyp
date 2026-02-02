@@ -40,6 +40,7 @@
   },
   "name":"flappy",
   "resources":[
+    {"id":{"name":"fnt_pnt","path":"fonts/fnt_pnt/fnt_pnt.yy",},},
     {"id":{"name":"GDD","path":"notes/GDD/GDD.yy",},},
     {"id":{"name":"obj_arvore","path":"objects/obj_arvore/obj_arvore.yy",},},
     {"id":{"name":"obj_inimigo","path":"objects/obj_inimigo/obj_inimigo.yy",},},
