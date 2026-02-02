@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 if !global.perdeu
 {
 	
@@ -11,3 +12,7 @@ layer_hspeed("bg_reflarovres",global.velcen[_ind]);
 layer_hspeed("bg_refl2",global.velcen[_ind]*1.5);
 }
 }
+=======
+if !global.perdeu{
+global.pontos+=.1;}
+>>>>>>> parent of 39abe74 (criei o array)
