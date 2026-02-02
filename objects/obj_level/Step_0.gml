@@ -1,2 +1,2 @@
 if !global.perdeu{
-global.pontos+=1;}
+global.pontos+=.1;}
