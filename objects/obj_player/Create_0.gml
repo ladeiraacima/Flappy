@@ -1,2 +1,2 @@
-gravity=0.5;
+gravity=.5;
 image_speed=0;
