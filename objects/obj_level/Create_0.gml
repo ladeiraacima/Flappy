@@ -1,6 +1,7 @@
 randomise();
 
-
+alarm[1]=room_speed*2;
 global.pontos=0;
 
-alarm[0]=random_range(2,5)*room_speed;
+alarm[0]=room_speed;
+alarm[2]=room_speed;
